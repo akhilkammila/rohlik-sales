@@ -1,0 +1,10 @@
+unique_id,product_unique_id,name,L1_category_name_en,L2_category_name_en,L3_category_name_en,L4_category_name_en,warehouse
+8,6,Tomato_0,Fruit and vegetable,Fruit and vegetable_L2_3,Fruit and vegetable_L3_5,Fruit and vegetable_L4_1,Budapest_1
+6,4,Onion_0,Fruit and vegetable,Fruit and vegetable_L2_3,Fruit and vegetable_L3_3,Fruit and vegetable_L4_1,Munich_1
+7,5,Herb_0,Fruit and vegetable,Fruit and vegetable_L2_4,Fruit and vegetable_L3_4,Fruit and vegetable_L4_1,Munich_1
+1,1,Blueberry_0,Fruit and vegetable,Fruit and vegetable_L2_1,Fruit and vegetable_L3_1,Fruit and vegetable_L4_1,Frankfurt_1
+2,1,Blueberry_0,Fruit and vegetable,Fruit and vegetable_L2_1,Fruit and vegetable_L3_1,Fruit and vegetable_L4_1,Munich_1
+3,2,Ginger_0,Fruit and vegetable,Fruit and vegetable_L2_2,Fruit and vegetable_L3_2,Fruit and vegetable_L4_1,Budapest_1
+5,4,Onion_0,Fruit and vegetable,Fruit and vegetable_L2_3,Fruit and vegetable_L3_3,Fruit and vegetable_L4_1,Frankfurt_1
+9,7,Pastry_0,Bakery,Bakery_L2_5,Bakery_L3_6,Bakery_L4_1,Prague_1
+4,3,Blueberry_1,Fruit and vegetable,Fruit and vegetable_L2_1,Fruit and vegetable_L3_1,Fruit and vegetable_L4_1,Frankfurt_1
